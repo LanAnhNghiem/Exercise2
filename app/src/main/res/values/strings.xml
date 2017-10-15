@@ -1,0 +1,35 @@
+<resources>
+    <string name="toolbar_name">Edit intro</string>
+    <string name="app_name">Jishin\'s App</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="headline">Headline</string>
+    <string name="education">Education</string>
+    <string name="add_new_education">ADD NEW EDUCATION</string>
+    <string name="zip_code">Zip code</string>
+    <string name="use_current_location">USE CURRENT LOCATION</string>
+    <string name="industry">Industry</string>
+    <string name="summary">Summary</string>
+    <string name="media">Media</string>
+    <string name="add_or_link_to_external_documents_photos_sites_videos_and_presentations">Add or link to external documents, photos, sites, videos, and presentations</string>
+    <string name="upload">Upload</string>
+    <string name="link">LINK</string>
+    <string name="supported_providers">Supported providers</string>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string-array name="universities">
+        <item>University of Information Technology</item>
+        <item>University of Social Sciences and Humanities</item>
+        <item>University of Technology</item>
+        <item>University of Science</item>
+        <item>International University</item>
+        <item>University of Economics and Law</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Vietnam</item>
+        <item>Thailand</item>
+        <item>Korea</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
